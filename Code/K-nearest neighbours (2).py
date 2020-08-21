@@ -2,7 +2,7 @@
 """
 Created on Sat Aug  1 10:55:06 2020
 
-@author: USUARIO
+@author: López Lazareno Diego Alberto
 """
 
 #%% K-Nearest Neighbours 
